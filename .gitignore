@@ -1,0 +1,14 @@
+# Ambiente virtual
+.venv/
+.venv310/
+
+# PyCharm
+.idea/
+
+# Arquivos grandes
+*.mp4
+*.wav
+
+# Python
+__pycache__/
+*.pyc
